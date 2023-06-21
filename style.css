@@ -1,0 +1,19 @@
+html{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+img{
+    border: 3px solid white;
+    width: 100%;
+}
+h1{
+    font-family: 'Libre Baskerville', serif;
+    text-transform: uppercase;
+}
+
+div{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 15%;
+}
